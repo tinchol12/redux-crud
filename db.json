@@ -1,0 +1,39 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "nombre": "Aprendiendo Redux Hooks v7",
+      "precio": "34"
+    },
+    {
+      "id": 2,
+      "nombre": "Aprendiendo React",
+      "precio": 25
+    },
+    {
+      "nombre": "React",
+      "precio": "23",
+      "id": 3
+    },
+    {
+      "nombre": "Harry Potter",
+      "precio": "102",
+      "id": 5
+    },
+    {
+      "nombre": "Aprende a programar",
+      "precio": "125",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "nombre": "Node y React v5",
+      "precio": "52"
+    },
+    {
+      "id": 8,
+      "nombre": "Mongodb",
+      "precio": "75"
+    }
+  ]
+}
