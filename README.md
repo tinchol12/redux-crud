@@ -1,5 +1,26 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Redux
+npm install redux react-redux redux-thunk
+
+React dom router
+npm install react-router-dom
+
+jSON Server
+npm install -g json-server
+Generar el archivo que funciona como base de datos: db.json
+json-server --watch db.json --port 4000
+
+axios
+npm install axios
+
+sweetalert2
+npm install sweetalert2
+
+https://github.com/tinchol12/productos.git
+
+
 ## Available Scripts
 
 In the project directory, you can run:
